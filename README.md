@@ -1,4 +1,3 @@
-"""
   Name            : JunkMail
   Documentation   : https://replit.com/@myxanax/JunkMail-v10
   License         : Completely Free
@@ -18,4 +17,3 @@ Warning:
 - Emails sent to a Gmail account often end up in spam.
 - Please type the full email handle. (example@email.com, not example)
 - You may send any amount of emails, but you will most likely be locked out at around 20.
-"""
